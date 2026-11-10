@@ -1,0 +1,8 @@
+node_modules/
+data/
+models/**/*.onnx
+models/hf/
+models/tessdata/
+.tmp/
+*.log
+models/clip-text-cache.json
